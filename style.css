@@ -6,7 +6,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(background.jpg);
     background-size: cover;
     display: flex;
 }
